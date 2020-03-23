@@ -1,3 +1,10 @@
-I use the Solarized palette: https://ethanschoonover.com/solarized/
+# Screenshot
 
-For Gnome terminal: https://github.com/aruhier/gnome-terminal-colors-solarized
+![Screenshot](screenshot.png)
+
+# Details
+
+* Terminal emulator: Gnome terminal
+* Shell: bash
+* Color Scheme: Solarized(https://ethanschoonover.com/solarized/)
+* Installation instructions: For Gnome terminal(https://github.com/aruhier/gnome-terminal-colors-solarized)
