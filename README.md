@@ -8,6 +8,18 @@ Add a folder under `shells/` with your handle, include a `README.md` with info o
 
 ## Gallery
 
+### Balena
+
+[![Screenshot](./shells/balena/screenshot.png)](./shells/balena/README.md)
+
 ### Nick
 
 [![Screenshot](./shells/nick/screenshot.png)](./shells/nick/README.md)
+
+### Marek
+
+[![Screenshot](./shells/marek/screenshot.png)](./shells/marek/README.md)
+
+### Ming
+
+[![Screenshot](./shells/ming/screenshot.png)](./shells/ming/README.md)
