@@ -12,6 +12,10 @@ Add a folder under `shells/` with your handle, include a `README.md` with info o
 
 [![Screenshot](./shells/balena/screenshot.png)](./shells/balena/README.md)
 
+### Kane
+
+[![Screenshot](./shells/kane/screenshot.png)](./shells/kane/README.md)
+
 ### Nick
 
 [![Screenshot](./shells/nick/screenshot.png)](./shells/nick/README.md)
