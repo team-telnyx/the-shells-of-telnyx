@@ -27,3 +27,7 @@ Add a folder under `shells/` with your handle, include a `README.md` with info o
 ### Ming
 
 [![Screenshot](./shells/ming/screenshot.png)](./shells/ming/README.md)
+
+### Rogelio
+
+[![Screenshot](./shells/rogelio/screenshot.png)](./shells/rogelio/README.md)
