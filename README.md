@@ -31,3 +31,7 @@ Add a folder under `shells/` with your handle, include a `README.md` with info o
 ### Rogelio
 
 [![Screenshot](./shells/rogelio/screenshot.png)](./shells/rogelio/README.md)
+
+### Luiz
+
+[![Screenshot](./shells/luiz/screenshot.png)](./shells/luiz/README.md)
