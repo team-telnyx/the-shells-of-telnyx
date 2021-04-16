@@ -8,6 +8,10 @@ Add a folder under `shells/` with your handle, include a `README.md` with info o
 
 ## Gallery
 
+### Aitor
+
+[![Screenshot](./shells/aitor/screenshot.png)](./shells/aitor/README.md)
+
 ### Balena
 
 [![Screenshot](./shells/balena/screenshot.png)](./shells/balena/README.md)
